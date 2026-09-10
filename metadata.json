@@ -1,0 +1,7 @@
+{
+  "name": "Bank Loan Risk & Passport Verification Dashboard",
+  "description": "Comprehensive bank loan risk, behavioral shift tracking, ML credit scoring, and cross-border passport flight risk detection dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
